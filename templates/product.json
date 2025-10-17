@@ -59,7 +59,7 @@
             "stack_blocks": true,
             "selector_style": "block",
             "swatch_selector_style": "swatch",
-            "variant_image_options": "",
+            "variant_image_options": "color",
             "size_chart_page": ""
           }
         },
