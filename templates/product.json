@@ -42,6 +42,21 @@
           "type": "payment_terms",
           "settings": {}
         },
+        "product_variations_ax6MaE": {
+          "type": "product_variations",
+          "settings": {
+            "option_name": "",
+            "option_value_metafield": "",
+            "products": [],
+            "selector_style": "swatch"
+          }
+        },
+        "inventory_q6eDn7": {
+          "type": "inventory",
+          "settings": {
+            "low_inventory_threshold": 0
+          }
+        },
         "separator": {
           "type": "separator",
           "settings": {}
@@ -86,6 +101,8 @@
         "price",
         "rating",
         "payment_terms",
+        "product_variations_ax6MaE",
+        "inventory_q6eDn7",
         "separator",
         "description",
         "variant_picker",
@@ -103,7 +120,7 @@
         "enable_video_looping": true,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
