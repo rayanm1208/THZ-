@@ -50,7 +50,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/coore_logo.svg",
         "logo_max_width": 300,
         "logo_mobile_max_width": 145,
         "menu": "main-menu",
